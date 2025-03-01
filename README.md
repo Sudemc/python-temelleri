@@ -1,2 +1,2 @@
 # python-temelleri
-veri bilimi için python ve tenserflow kursunu takip ederken edindiğim notlar
+Bu proje, Atıl Samancıoğlu'nun BTK Akademi'deki "Veri Bilimi için Python ve TensorFlow" ( https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705 ) kursunu takip ederken aldığım notlar ve yazdığım kodlarla oluşturulmuştur. Şuan kursun ilk 4 bölümü yani giriş, kurulum, Python temelleri ve OOP kısmını bitirmiş bulunmaktayım. Ben ilerledikçe proje de güncellenmeye devam edecektir.
